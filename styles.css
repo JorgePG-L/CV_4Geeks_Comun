@@ -2,12 +2,23 @@
     position: relative;
 }
 
-.gangsters {
-    position: absolute;
-    top: 85%;
-    left: 45%;
+.anclas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.qcontrol {
-    height: 276.38px;
+.menu {
+    display: flex;
 }
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+
+.gangsters {
+    position: absolute;
+    top: 80%;    
+}
+
