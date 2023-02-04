@@ -1,3 +1,13 @@
 .portada {
     position: relative;
 }
+
+.gangsters {
+    position: absolute;
+    top: 85%;
+    left: 45%;
+}
+
+.qcontrol {
+    height: 276.38px;
+}
