@@ -22,3 +22,13 @@
     top: 80%;    
 }
 
+body{
+    background-color: black;
+}
+
+h2{
+    color: rgb(253, 233, 58);
+}
+body > h5{
+    color: rgb(253, 224, 58);
+}
